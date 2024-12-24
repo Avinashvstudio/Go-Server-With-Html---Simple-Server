@@ -1,6 +1,5 @@
 # Go-Server-With-Html---Simple-Server
 
-# Go-Server-With-Html---Simple-Server
 
 same like simple server just run := go run main.go
 
